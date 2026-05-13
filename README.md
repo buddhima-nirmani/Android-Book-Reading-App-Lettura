@@ -232,6 +232,24 @@ Publish Book / Explore Books
 Open PDF Inside App
 ```
 
+# Application User Interfaces
+
+## Login & SignUp Interfaces
+
+<img width="250" height="500" alt="Login" src="https://github.com/user-attachments/assets/9b61f3c2-c845-4245-9c41-a7f4a610e413" />
+<img width="250" height="500" alt="Sign Up" src="https://github.com/user-attachments/assets/c4bbda77-fa92-4a00-97af-bde02c0ae131" />
+
+## Dasboard Interface
+
+<img width="250" height="500" alt="Dashboard" src="https://github.com/user-attachments/assets/05faa803-caab-4c60-a7b7-3dbc848246d0" />
+
+## Bionic Reader, Publish and Explore Books Interfaces
+
+<img width="250" height="500" alt="BionicReader" src="https://github.com/user-attachments/assets/015a1ac4-8002-434f-bff4-ddc572a6a1c9" />
+<img width="250" height="500" alt="PublishBooks" src="https://github.com/user-attachments/assets/855942f6-b6fa-4ede-a0ae-f7c2940b5de0" />
+<img width="250" height="500" alt="ExploreBooks" src="https://github.com/user-attachments/assets/768db482-9e91-4c62-a303-66c3d88284c6" />
+
+
 # License
 
 This project is intended for educational and portfolio purposes.
