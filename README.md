@@ -232,21 +232,6 @@ Publish Book / Explore Books
 Open PDF Inside App
 ```
 
----
-
-# Future Improvements
-
-* Dark Mode
-* User Profile System
-* Search Functionality
-* Favorites System
-* Splash Screen
-* Improved Animations
-* Offline Reading Support
-
----
-
-
 # License
 
 This project is intended for educational and portfolio purposes.
