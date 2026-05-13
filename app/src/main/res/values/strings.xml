@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookReadingApp</string>
+    <string name="already_have_an_account_login">Already Have an Account? Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t Have an Account? Sign Up</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747453989163",
+    "project_id": "lettura-bookreadingapp",
+    "storage_bucket": "lettura-bookreadingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747453989163:android:8b2163dc7047013e4cc56e",
+        "android_client_info": {
+          "package_name": "com.example.bookreadingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosFGWRVd3JFk7A3pJGuGI-9SbfDoxrZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
